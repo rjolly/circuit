@@ -741,7 +741,6 @@ public class CirSim extends Frame
 	if (applet == null)
 	{
 	    dispose();
-	    System.exit(0);
 	}
 	else
 	{
